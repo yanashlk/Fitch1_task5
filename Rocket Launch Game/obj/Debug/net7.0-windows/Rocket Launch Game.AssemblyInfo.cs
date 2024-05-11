@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rocket Launch Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccedcbcb36fe6878bca6ca90b3610a3470a447ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rocket Launch Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rocket Launch Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
